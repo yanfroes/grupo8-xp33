@@ -1,0 +1,23 @@
+.wrapper {
+  padding-top: 100px;
+  min-height: 100vh;
+  width: 100%;
+  height: auto;
+  display: flex;
+  background-image: linear-gradient(-20deg, rgb(115, 26, 183) 0%, rgb(99, 220, 62) 100%);
+}
+
+.card {
+  box-shadow: 0px 8px 60px -10px rgba(13, 28, 39, 0.6);
+  border-radius: 12px;
+}
+
+.card-img-top {
+  margin: 20px;
+  border-radius: 50% !important;
+  box-shadow: 0px 5px 50px 0px #42f551, 0px 0px 0px 7px rgba(66, 245, 81, 0.5);
+}
+
+.infos {
+  padding-top: 15px;
+}
