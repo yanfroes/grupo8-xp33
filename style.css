@@ -15,12 +15,12 @@
 }
 
 .card-img-top {
-  max-height: 200px;
-  max-width: 200px;
-  margin: 20px;
   border-radius: 50% !important;
   box-shadow: 0px 5px 50px 0px #42f551, 0px 0px 0px 7px rgba(66, 245, 81, 0.5);
-  transform: translateX(-11%) translateY(-11%);
+  max-height: 200px;
+  max-width: 200px;
+  margin: auto;
+  margin-top: 20px;
 }
 
 .infos {
