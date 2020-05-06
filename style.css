@@ -7,6 +7,20 @@
   background-image: linear-gradient(-20deg, rgb(115, 26, 183) 0%, rgb(99, 220, 62) 100%);
 }
 
+.title {
+  color: #fff; 
+  text-shadow: 3px 3px 3px #000;
+}
+
+.destacar{
+  transition: 0.3s;
+}
+
+.destacar:hover{
+  box-shadow: 3px 3px 10px #42f551;
+  transition: 0.3s;
+}
+
 .card {
   margin: 10px;
   margin-top: 40px;
@@ -33,14 +47,14 @@
   border: none !important;
   padding: 10px;
   border-radius: 50px;
-  background: linear-gradient(45deg, rgb(115, 26, 183), rgb(76, 39, 97));
+  background-color: rgb(115, 26, 183) !important;
   box-shadow: 0px 4px 30px rgba(115, 26, 183, 0.35);
   font-weight: 700;
-    font-size: 19px;
+  font-size: 19px;
 }
 
 .profile-button:hover {
   box-shadow: 0px 7px 30px rgba(99, 220, 62, 0.75);
+  background-color: rgb(99, 220, 62) !important;
+  transition: 0.1s;
 }
-
-.btn {}

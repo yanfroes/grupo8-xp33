@@ -3,8 +3,8 @@ function generateProfile(profile, num){
     return /*html*/`
         <!-- Profile -->
         <div class="col-lg-4 col-12">
-          <div class="card">
-            <img class="card-img-top" style="text-align: center;" src="images/${profile.image}" alt="Card image cap">
+          <div class="card destacar">
+            <img class="card-img-top" src="images/${profile.image}" alt="Card image cap">
             <div class="card-body text-center">
               <h2 class="card-title">${profile.name}</h2>
               <p class="card-text">${profile.stack} from ${profile.city}/${profile.uf}</p>
