@@ -1,3 +1,38 @@
+body {
+  font-family: 'Roboto', sans-serif;
+}
+
+@font-face {
+    font-family: 'Gilroy-Bold ☞';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Gilroy-Bold ☞'), url('Gilroy-Bold.woff') format('woff');
+}
+@font-face {
+    font-family: 'Gilroy-Heavy ☞';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Gilroy-Heavy ☞'), url('Gilroy-Heavy.woff') format('woff');
+}
+@font-face {
+    font-family: 'Gilroy-Light ☞';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Gilroy-Light ☞'), url('Gilroy-Light.woff') format('woff');
+}
+@font-face {
+    font-family: 'Gilroy-Medium ☞';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Gilroy-Medium ☞'), url('Gilroy-Medium.woff') format('woff');
+}
+@font-face {
+    font-family: 'Gilroy-Regular ☞';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Gilroy-Regular ☞'), url('Gilroy-Regular.woff') format('woff');
+}
+
 .wrapper {
   padding-top: 100px;
   min-height: 100vh;
@@ -23,7 +58,7 @@
 
 
 .card {
-  margin: 10px;
+
   margin-top: 40px;
   box-shadow: 0px 8px 60px -10px rgba(13, 28, 39, 0.6);
   border-radius: 12px;
@@ -105,4 +140,26 @@ height: 420px;
   box-shadow: 0px 7px 30px rgba(99, 220, 62, 0.75);
   background-color: rgb(99, 220, 62) !important;
   transition: 0.1s;
+}
+
+
+.navbar {
+  background-color: #fff;
+}
+
+.navbar-light .navbar-nav .nav-link {
+  font-family:'Gilroy-Bold ☞';
+  color: rgb(115, 26, 183) !important;
+}
+
+.navbar-light .navbar-text {
+  font-family:'Gilroy-Bold ☞';
+  color: rgb(115, 26, 183) !important;
+}
+
+.stacks-title {
+  color: rgb(115, 26, 183);
+  font-family:'Gilroy-Heavy ☞';
+  font-weight:normal;
+  font-size:42px;
 }
