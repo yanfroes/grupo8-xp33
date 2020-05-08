@@ -83,10 +83,10 @@ ALUMNIS.push({
     stack: "Hipster",
     city: "Taboão da Serra",
     uf: "SP",
-    dream: "Bom daqui a há 10 anos quero e preciso estar com a minha vida financeira estabilizada, com e se no caminho eu conseguir tocar projetos paralelos vai ser ótimo.",
-    learn: "Eu adoraria aprender sobre culturas diferentes penso que isso trás respostas mais atrativas pro mundo.",
-    teach: "Posso da dicas de fotografia, inglês trocar experiências culturais.",
-    oneyear: "Eu adoraria trabalhar com filantropia.",
+    dream: "Quero ter minha independência financeira, ter meu próprio negócio, investir em diversos projetos e ajudar as pessoas e o meio ambiente.",
+    learn: "Eu gostaria de viajar mundo e aprender sobre diferentes culturas.",
+    teach: "Posso dar dicas de fotografia, inglês e trocar experiências culturais.",
+    oneyear: "Independente do lugar quero estar onde meu multipotencial seja valorizado.",
     linkedin: "https://www.linkedin.com/in/georgia-neponucena/"
 })
 
