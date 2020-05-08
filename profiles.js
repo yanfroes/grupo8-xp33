@@ -69,10 +69,10 @@ ALUMNIS.push({
     stack: "Hipster",
     city: "São Paulo",
     uf: "SP",
-    dream: "Em uma empresa topzera QUE ME PAGUE UM SALÁRIO (snif).",
+    dream: "Viajar o mundo (novamente).",
     learn: "Git, Trello, e programação em geral.",
     teach: "Ensino inglês e italiano, ensino técnicas avançadas de redação, e como conquistar o coração da morena.",
-    oneyear: "Viajar o mundo (novamente).",
+    oneyear: "Em uma empresa topzera QUE ME PAGUE UM SALÁRIO (snif).",
     linkedin: "https://www.linkedin.com/in/daniel-domingos-10003311/"
 })
 
