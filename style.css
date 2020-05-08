@@ -1,8 +1,17 @@
 body {
   font-family: 'Roboto', sans-serif;
   padding-bottom: 100px;
-  background-image: linear-gradient(-20deg, rgb(115, 26, 183) 0%, rgb(99, 220, 62) 100%);
+
 }
+#jungle-bg {
+    background-image: url("jungle-bg.jpg");
+    width: 100%;
+    height: 100%;
+    position: fixed;
+    z-index: -10000;
+    opacity: 0.12;
+}
+
 
 @font-face {
     font-family: 'Gilroy-Bold ☞';
@@ -36,7 +45,7 @@ body {
 }
 
 .wrapper {
-  padding-top: 100px;
+
   min-height: 100vh;
   width: 100%;
   height: auto;
@@ -54,15 +63,15 @@ body {
 }
 
 .destacar:hover{
-  box-shadow: 3px 3px 10px #42f551;
+  box-shadow: 0px 8px 60px -10px rgba(13, 28, 39, 0.6);
+
   transition: 0.3s;
 }
 
 
 .card {
-
+  box-shadow: 0px 2px 15px -3px rgba(13, 28, 39, 0.6);
   margin-top: 40px;
-  box-shadow: 0px 8px 60px -10px rgba(13, 28, 39, 0.6);
   border-radius: 12px;
   width: 100%;
   height: 500px;
@@ -115,11 +124,11 @@ height: 500px;
 
 .card-img-top {
   border-radius: 50% !important;
-  box-shadow: 0px 5px 50px 0px #42f551, 0px 0px 0px 7px rgba(66, 245, 81, 0.5);
+  box-shadow: 0px 5px 50px 0px #4C8C42, 0px 0px 0px 7px rgba(76, 140, 66, 0.5);
   max-height: 200px;
   max-width: 200px;
   margin: auto;
-  margin-top: 20px;
+  margin-top: 50px;
 }
 
 .infos {
@@ -132,15 +141,15 @@ height: 500px;
   border: none !important;
   padding: 10px;
   border-radius: 50px;
-  background-color: rgb(115, 26, 183) !important;
-  box-shadow: 0px 4px 30px rgba(115, 26, 183, 0.35);
+  background-color: #57A64B !important;
+  box-shadow: 0px 4px 30px rgba(58, 89, 54, 0.5);
   font-weight: 700;
   font-size: 19px;
 }
 
 .profile-button:hover {
-  box-shadow: 0px 7px 30px rgba(99, 220, 62, 0.75);
-  background-color: rgb(99, 220, 62) !important;
+  box-shadow: 0px 7px 30px rgba(58, 89, 54, 0.5);
+  background-color: #3A5936 !important;
   transition: 0.1s;
 }
 
@@ -151,28 +160,33 @@ height: 500px;
 
 .navbar-light .navbar-nav .nav-link {
   font-family:'Gilroy-Bold ☞';
-  color: rgb(115, 26, 183) !important;
+  color: #57A64B !important;
+  font-size: 22px;
+}
+.navbar-light .navbar-nav .nav-link:hover {
+    color: #3A5936 !important;
 }
 
 .navbar-light .navbar-text {
   font-family:'Gilroy-Bold ☞';
-  color: rgb(115, 26, 183) !important;
+  color: #57A64B !important;
+  font-size: 22px;
 }
 
 .stacks-title {
-  color: rgb(115, 26, 183);
+  color: #57A64B;
   font-family:'Gilroy-Heavy ☞';
   font-weight:normal;
   font-size:42px;
 }
 
 .navbar-brand {
-  color: rgb(115, 26, 183) !important;
+  color: #57A64B !important;
   font-family:'Gilroy-Heavy ☞';
   font-weight:normal;
   font-size:40px !important;
 }
 
 .green {
-  color: #42f551;
+  color: #57A64B;
 }
