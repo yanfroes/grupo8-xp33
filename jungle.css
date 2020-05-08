@@ -20,8 +20,8 @@ body {
 }
 
 .navbar {
-    background-color: rgba(0, 0, 0, 0.5);
-  }
+    background-color: rgba(0, 0, 0, 0.5)
+}
   
   .navbar-light .navbar-nav .nav-link {
     font-family:'Gilroy-Bold ☞';
@@ -41,7 +41,7 @@ body {
   }
   
   .stacks-title {
-    color: rgb(99, 220, 62);
+    color: rgb(154, 236, 129) !important;
     text-shadow: 3px 3px 5px black !important;
     font-family:'Gilroy-Heavy ☞';
     font-weight:normal;
@@ -49,9 +49,30 @@ body {
   }
   
   .navbar-brand {
-    color: rgb(99, 220, 62) !important;
+    color: rgb(154, 236, 129) !important;
     text-shadow: 3px 3px 5px black;
     font-family:'Gilroy-Heavy ☞';
     font-weight:normal;
     font-size:40px !important;
   }
+
+.jumbotron {
+    background-color: transparent !important;
+    color: white;
+    text-shadow: 5px 5px 10px black;
+    color: rgba(103, 253, 160, 0.568) !important;
+    font-family:'Gilroy-Heavy ☞';
+}
+
+.jumbotron .display-1{
+    font-size: 10em;
+    font-family: 'Knewave', cursive;
+}
+
+.jumbotron .display-2{
+    font-size: 7em;
+}
+
+.jumbotron .display-3{
+    font-size: 5em;
+}
