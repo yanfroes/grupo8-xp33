@@ -126,10 +126,10 @@ ALUMNIS.push({
     stack: "Hustler",
     city: "São Bernado",
     uf: "SP",
-    dream: "Viajar para Manchu Pichu. Correr a são Silvestre. Jantar no Terraço italia no aniversario de namoro.",
-    learn: "Cozinhar comida Vegetariana. Atingir estado de samadhi. Falar Esperanto. Aprender alquimia.",
-    teach: "Aplicar golpe de Ap tchagui. A meditar. A fazer fogueira. Cultivo e produção de banana. Fazer uma barraca com recurso da Natureza. Dar o nó de marinheiro. Jogar Catan. Ensinar PNL.",
-    oneyear: "Trabalhando na Gama E trabalhando em um futuro negocio proprio.",
+    dream: "Meu sonho até o final do ano é estar trabalhando em uma startaup, Correr uma prova da Bravus Race em um excelente tempo, Jantar no Terraço Itália no final do ano com meu amor e velejar por um dia em alto mar.",
+    learn: "Aprimorar e desenvolver mais ainda todos soft e hard skillis de hustler. Aprender cozinhar bem. Atingir estado de samadhi.Investir no mercado de ações e Falar Esperanto.",
+    teach: "tecnicas de programação neurolinguistica e Hipnose Ericksoniana. Aplicar golpe de Ap tchagui.A meditar como um monge.  A fazer fogueira e barraca com recurso da Natureza. Dar um nó de marinheiro.   Jogar Catan.",
+    oneyear: "Trabalhando na Gama, preparando minha viagem para EUA, ter comprado a minha sonhada INTRUDER e continuar no desenvolvimento do meu Ser.",
     linkedin: "https://www.linkedin.com/in/machadotiagosouza/"
 })
 
