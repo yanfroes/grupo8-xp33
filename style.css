@@ -41,7 +41,7 @@ body {
   width: 100%;
   height: auto;
   display: flex;
-  
+
 }
 
 .title {
@@ -146,7 +146,7 @@ height: 500px;
 
 
 .navbar {
-  background-color: #fff;
+  background-color: transparent;
 }
 
 .navbar-light .navbar-nav .nav-link {
@@ -164,6 +164,13 @@ height: 500px;
   font-family:'Gilroy-Heavy ☞';
   font-weight:normal;
   font-size:42px;
+}
+
+.navbar-brand {
+  color: rgb(115, 26, 183) !important;
+  font-family:'Gilroy-Heavy ☞';
+  font-weight:normal;
+  font-size:40px !important;
 }
 
 .green {

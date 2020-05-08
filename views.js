@@ -46,18 +46,18 @@ function generateProfile(profile, num){
     <!-- /Profile -->
     `
   }
-  
+
   // este retorna o html de todo um stack
   function generateGroup(stack, green){
     return /*html*/`
-        <h1 class="stacks-title text-center ${green ? 'green' : ''}" id="${stack.toLowerCase()+'s'}">${stack.toUpperCase()+'S'}</h1>
+        <h1 style="margin-top:50px" class="stacks-title text-center ${green ? 'green' : ''}" id="${stack.toLowerCase()+'s'}">${stack.toUpperCase()+'S'}</h1>
         <div class="row">
-            ${getProfiles(stack)}        
+            ${getProfiles(stack)}
         </div>
     `
   }
-  
-  
+
+
 
 // retorna todos os perfis de uma stack escolhida
 
