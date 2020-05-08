@@ -21,7 +21,7 @@ ALUMNIS.push({
 
 ALUMNIS.push({
     id: 2,
-    image: 'Renan Adreoelle.jpg',
+    image: 'Renan Andreolle.jpg',
     name: "Renan Andreolle Bezerra da Silva",
     stack: "Hacker",
     city: "Jaboatão dos Guararapes",
