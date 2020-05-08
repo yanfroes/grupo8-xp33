@@ -21,22 +21,22 @@ function generateProfile(profile, num){
           <a class="btn profile-button" >Informações</a>
           </div>
         </div>
-        <div class=" back">
+        <div class="card-back back">
           <div class="text-justify">
             <h5>
-              Sonho grande:
+              Sonho grande:<br/><br/>
               <small class="text-muted">${profile.dream}</small><br />
             </h5>
             <h5>
-              O que quero aprender:
+              O que quero aprender:<br/><br/>
               <small class="text-muted">${profile.learn}</small><br />
             </h5>
             <h5>
-              O que posso ensinar:
+              O que posso ensinar:<br/><br/>
               <small class="text-muted">${profile.teach}</small><br />
             </h5>
             <h5>
-              Em um ano estarei:
+              Em um ano estarei:<br/><br/>
               <small class="text-muted">${profile.oneyear}</small><br />
             </h5>
           </div>

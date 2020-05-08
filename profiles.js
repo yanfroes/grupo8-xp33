@@ -189,3 +189,17 @@ ALUMNIS.push({
     oneyear: "Daqui a um ano vou tá vivendo novas experiências e trabalhando em um lugar onde seja inclusive e diverso. Ah, também é legal falar que meu time vai ser bem grande e vou ter muitas experiências legais.",
     linkedin: "www.linkedIn.com/in/rafaelhundrao/"
 })
+
+ALUMNIS.push({
+    id: 14,
+    image: 'Pamella Souza.jpeg',
+    name: "Pâmella de Oliveira Souza",
+    stack: "Hyper",
+    city: "Santos",
+    uf: "SP",
+    dream: "Morar sozinha",
+    learn: "Aprender a não ser tão teimosa.",
+    teach: "Como viajar sozinho rs",
+    oneyear: "Plataforma de Stream ",
+    linkedin: "www.linkedin.com/in/pâmella-souza94/"
+})

@@ -99,6 +99,7 @@ height: 500px;
     -moz-transform: rotateY( 180deg );
     -o-transform: rotateY( 180deg );
     transform: rotateY( 180deg );
+    z-index: 1000;
 }
 .card div {
     background: #fff;
