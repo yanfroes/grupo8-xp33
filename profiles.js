@@ -11,10 +11,10 @@ ALUMNIS.push({
     stack: "Hacker",
     city: "Manhuaçu",
     uf: "MG",
-    dream: ">Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
-    learn: ">Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
-    teach: ">Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
-    oneyear: ">Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+    dream: "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+    learn: "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+    teach: "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+    oneyear: "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
     linkedin: "https://www.linkedin.com/in/yanfroes/"
 })
 
