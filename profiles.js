@@ -197,10 +197,10 @@ ALUMNIS.push({
     stack: "Hyper",
     city: "Santos",
     uf: "SP",
-    dream: "Morar sozinha",
-    learn: "Aprender a não ser tão teimosa.",
-    teach: "Como viajar sozinho rs",
-    oneyear: "Plataforma de Stream ",
+    dream: "Independência financeira.",
+    learn: "Novas Soft Skills.",
+    teach: "Como viajar sozinho, Gestão de Empresa.",
+    oneyear: "Trabalhando em uma Plataforma de Stream.",
     linkedin: "www.linkedin.com/in/pâmella-souza94/"
 })
 
