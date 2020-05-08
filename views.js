@@ -24,19 +24,19 @@ function generateProfile(profile, num){
         <div class="card-back back">
           <div class="text-justify">
             <h5>
-              Sonho grande:<br/><br/>
+              Sonho grande:
               <small class="text-muted">${profile.dream}</small><br />
             </h5>
             <h5>
-              O que quero aprender:<br/><br/>
+              O que quero aprender:
               <small class="text-muted">${profile.learn}</small><br />
             </h5>
             <h5>
-              O que posso ensinar:<br/><br/>
+              O que posso ensinar:
               <small class="text-muted">${profile.teach}</small><br />
             </h5>
             <h5>
-              Em um ano estarei:<br/><br/>
+              Em um ano estarei:
               <small class="text-muted">${profile.oneyear}</small><br />
             </h5>
           </div>
