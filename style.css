@@ -1,5 +1,7 @@
 body {
   font-family: 'Roboto', sans-serif;
+  padding-bottom: 100px;
+  background-image: linear-gradient(-20deg, rgb(115, 26, 183) 0%, rgb(99, 220, 62) 100%);
 }
 
 @font-face {
@@ -39,7 +41,7 @@ body {
   width: 100%;
   height: auto;
   display: flex;
-  background-image: linear-gradient(-20deg, rgb(115, 26, 183) 0%, rgb(99, 220, 62) 100%);
+  
 }
 
 .title {
@@ -162,4 +164,8 @@ height: 500px;
   font-family:'Gilroy-Heavy ☞';
   font-weight:normal;
   font-size:42px;
+}
+
+.green {
+  color: #42f551;
 }
