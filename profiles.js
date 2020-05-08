@@ -203,3 +203,5 @@ ALUMNIS.push({
     oneyear: "Plataforma de Stream ",
     linkedin: "www.linkedin.com/in/pâmella-souza94/"
 })
+
+ALUMNIS = ALUMNIS.sort((a,b) => a.name.localeCompare(b.name))

@@ -101,3 +101,8 @@ body {
 .wrapper {
     background-image: linear-gradient(-20deg, rgb(115, 26, 183) 0%, rgb(99, 220, 62) 100%);
 }
+
+#description {
+    font-size: 1.5em;
+    color: white;
+}
