@@ -161,7 +161,7 @@
     }
 
     score.append('Você acertou ' + numCorrect + ' perguntas de um total de ' +
-                 questions.length + '!!!');
+                 questions.length + '!!!' +' <br> MUITO OBRIGADO POR PARTICIPAR DO QUIZ' );
     return score;
   }
 })();
